@@ -15,7 +15,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public String hello() {
-		return "Hello World! \n";
+		return "Hello Spring! \n";
 	}
 
 }
